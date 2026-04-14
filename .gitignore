@@ -38,9 +38,3 @@ Thumbs.db
 # Project specific
 .env
 *.log
-
-# Large model files (use Git LFS if needed)
-*.pkl
-*.h5
-*.model
-*.pth
